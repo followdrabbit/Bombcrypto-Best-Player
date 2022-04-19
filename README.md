@@ -17,7 +17,7 @@ I am not responsible for any penalties incurred by those who use the bot, use it
 
 
 ## 👀️  Preview
-![Preview](https://github.com/followdrabbit/Bombcrypto-Best-Player/blob/main/images/preview.png?raw=true)
+![Preview](https://github.com/followdrabbit/Bombcrypto-Best-Player/blob/main/images/bot_preview.png?raw=true)
 
 ## ✍ Requirements
 
