@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![Bomb Crypto Banner](https://raw.githubusercontent.com/newerton/bombcrypto-bot/main/images/readme/banner.jpg)
+![Bomb Crypto Banner](https://github.com/followdrabbit/Bombcrypto-Best-Player/blob/main/images/banner.png?raw=true)
 
   <a>
     💣 Bombcrypto Best Player  💣 
@@ -17,7 +17,7 @@ I am not responsible for any penalties incurred by those who use the bot, use it
 
 
 ## 👀️  Preview
-![Screenshot - Preview](https://raw.githubusercontent.com/newerton/bombcrypto-bot/main/images/readme/bot_working.png)
+![Preview](https://github.com/followdrabbit/Bombcrypto-Best-Player/blob/main/images/preview.png?raw=true)
 
 ## ✍ Requirements
 
@@ -47,7 +47,7 @@ python bombcrypto_best_player.py
 
 Bombcrypto Best Player does not save logs, use optional arguments to change this.
 
-![Screenshot - Preview](https://raw.githubusercontent.com/newerton/bombcrypto-bot/main/images/readme/bot_working.png)
+![Help menu](https://github.com/followdrabbit/Bombcrypto-Best-Player/blob/main/images/help.png?raw=true)
 
 
 
