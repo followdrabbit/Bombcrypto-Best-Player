@@ -34,7 +34,7 @@ print(r'||__) \__/  |  | |__) \__, |  \  |  |     |  \__/    |__) |___ .__/  |  
 print(r'|                                                                                                       |')
 print(r'=========================================================================================================')
 print(r'|                                                                                                       |')
-print(r'|                      Press   "ctrl + c" to interrupt Bcoin Collector execution                        |')
+print(r'|                 Press   "ctrl + c" to interrupt Bombcrypto Best Player execution                      |')
 print(r'|                                                                                                       |')
 print(r'=========================================================================================================')
 
