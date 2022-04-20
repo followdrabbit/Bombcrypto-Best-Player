@@ -15,25 +15,18 @@ A refactored bot based on <a href="https://github.com/mpcabete/bombcrypto-bot">m
 
 I am not responsible for any penalties incurred by those who use the bot, use it at your own risk.
 
-
-## 👀️  Preview
-![Preview](https://github.com/followdrabbit/Bombcrypto-Best-Player/blob/main/images/bot_preview.png?raw=true)
-
-## ✍ Requirements
-
- - 🐍 Python 3x - 🔗 [https://www.python.org/downloads/](https://www.python.org/downloads/)
- - ↓ Download Bombcrypto Best Player to your local machine
-
-⚠️ **It is important to check the option to add python to PATH**
+## 🔨 Installation
 
 
-## 🔨 Installing Bombcrypto Best Player
-Install the dependencies by running the command below into the project folder:
+To install Bombcrypto Best Player you just need to run the command below into the project folder:
 
 ```
 pip install -r requirements.txt
 ```
 Ready! 
+
+⚠️ Python 3x is required - 🔗 [https://www.python.org/downloads/](https://www.python.org/downloads/) and It is important to check the option to add python to PATH
+
 
 ## ⚙ Running Bombcrypto Best Player
 
@@ -42,6 +35,10 @@ Inside the project folder, start the bot with the command below:
 ```
 python bombcrypto_best_player.py
 ```
+
+
+![Preview](https://github.com/followdrabbit/Bombcrypto-Best-Player/blob/main/images/bot_preview.png?raw=true)
+
 
 ## ⟫ Optional configurations
 
