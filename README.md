@@ -47,8 +47,12 @@ Bombcrypto Best Player does not save logs, use optional arguments to change this
 ![Help menu](https://github.com/followdrabbit/Bombcrypto-Best-Player/blob/main/images/help.png?raw=true)
 
 
+## How it works
+
+![How it work overview](https://github.com/followdrabbit/Bombcrypto-Best-Player/blob/main/images/how_it_works_overview.png?raw=true)
+
+
 
 ## TO DO 
-- [ ] How it works 
 - [ ] Contributing with this project 
 - [ ] Donate
