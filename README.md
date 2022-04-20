@@ -37,7 +37,7 @@ python bombcrypto_best_player.py
 ```
 
 
-![Preview](https://github.com/followdrabbit/Bombcrypto-Best-Player/blob/main/images/bot_preview.png?raw=true)
+![running_bcbp](https://github.com/followdrabbit/Bombcrypto-Best-Player/blob/main/images/running_bcbp.png?raw=true)
 
 
 ## ⟫ Optional configurations
