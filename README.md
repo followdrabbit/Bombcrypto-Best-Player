@@ -30,6 +30,8 @@ Ready!
 
 ## ⚙ Running Bombcrypto Best Player
 
+⚠️ It is important to replace the images in the "target" folder before running this bot. I'm running this bot on a Windows laptop with 1920x1080 resolution and the browser zoomed to 50% (half screen). So if your laptop has a different resolution and/or your browser is zoomed differently, the images will not match and the bot will not work!!!
+
 Inside the project folder, start the bot with the command below: 
 
 ```
